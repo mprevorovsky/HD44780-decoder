@@ -3,6 +3,9 @@ Arduino Library for decoding HD44780 protocol. This is useful when you want to e
 
 This runs on an Arduino Nano. 4-bit and 8-bit implemented and tested.
 
+Originally forked from:
+- https://github.com/fsalomon/HD44780-decoder
+
 Inspired by:
- * https://github.com/dsalzman/HD44780-decoder/blob/master/main.ino
- * https://github.com/sp0x/LcdSniffer/blob/master/lcd_receiver.ino
+- https://github.com/dsalzman/HD44780-decoder/blob/master/main.ino
+- https://github.com/sp0x/LcdSniffer/blob/master/lcd_receiver.ino
